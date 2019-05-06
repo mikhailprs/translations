@@ -1,0 +1,284 @@
+"nick_name" = "الاسم";
+"game_mode" = "نوع اللعبة";
+"play" = "اللعب";
+"skins_list" = "قائمة الجلود";
+"settings" = "الإعدادات";
+
+
+//settings
+
+"show_names" = "أظهار الأسماء";
+"show_grid" = "إظهار الشبكة";
+"show_leaders" = "إظهار التصدرين";
+"show_minimap" = "اظهار الخريطه الصغيره";
+"darkTheme" = "موضوع الظلام";
+"show_skins" = "إظهار الجلود";
+"spec_mode_after_death" = "المشاهده بعد الموت";
+"show_joystick" = "إظهار عصاه التحكم";
+"static_joystick" = "عصاه تحكم الثابته";
+"show_chat" = "إظهار المحادثه";
+"macros" = "اظهار الماكرو";
+"left_hand_control" = "ضوابط اليد اليسرى";
+"show_friends" = "إظهار الأصدقاء";
+
+
+//info
+
+
+"fb_info_title" = "المعلومات";
+"about_text" = "إن لديك عروض او ارت أن تري مظاهر جديدة يمكنك محادثتي:";
+"game_mechanic_description" = "كلما كنت أكبر تتحرك أبطأ-\
+\n\
+-اضغط على الزر المناسب لتقسيم الكتله الى احجام اصغر ، احد هذه الكتل يصوب بسرعه اكبر ، يمكنك استخدام هذه الحيله لضرب لاعبين اخرين\ واكلهم\
+\n\
+-اذا انقسمت يمكنتك إعاده الاتحاد فى كتله واحده بعد مرور فتره قليله ، وكلما زاد حجم الكتل كلما طالت فتره الانتظار قبل ان تتوحد مره\ اخري\
+\n\
+-اذا كان حجمك اقل من ' سبايكبولز ' فيمكنك الاختفاء داخلها للحمايه ، ولكن احترس من لمسها اذا كان حجمك اكبر منها ، فهذا يجعلك تنفجر الى كتل صغيره\
+\n\
+-لتقسيم لاعب اخر يمكنك رمى كتل من كتلك الخاصه نحوه\
+\n\
+-لايمكنك ان تأكل او تؤكل من لاعبين بنفس حجمك\
+\n\
+التحكم :\
+\n\
+-انقر اي مكان على الشاشه لتحريك الخليه او استخدم عصا التحكم\
+\n\
+-اضغط على الزر المناسب لتقسيم او اخراج بعض من الكتله\
+\n\
+-يمكنك تعطيل اظهار الاسماء والاشكال للتقليل من بطئ عمل البرنامج .\
+";
+
+
+
+
+
+"first_start_dialog_title" = "ميكانيكية اللعبة";
+
+
+// records
+
+
+"top_lvl" = "اعلى المستويات";
+"top" = "اعلي %@";
+
+
+// profile
+
+"last_seen" = "آخر ظهور";
+"registered" = "تسجيل الدخول";
+"game_time" = "وقت اللعب";
+"user_info_records" = "الأرقام القياسيه :";
+"fb_info_message" = "سجل الدخول بفيسبوك او جوجل .و اصعد بالمستوي لتحصل على كتلة اكبر في البداية";
+
+
+
+//skin chooser
+
+"skin_title" = "ضع اسم لهذا الشكل";
+"skin_message" = "هذا الشكل سيغير اسمك";
+"low_lvl_message" = "مستواك اقل من المطلوب";
+"login_for_skins_message" = "سجل الدخول لتستخدم هذا المظهر";
+"prem_skin_message" = "إعداد هذا المظهر";
+"cancel" = "إلغاء";
+"prem_skin_locked" = "آسف المظاهر مغلقة لبعض الوقط";
+
+
+//game popups
+
+"score_result" = "!تم تسجيل %@ نقطة";
+"exit" = "الخروج";
+"restart" = "إعادة البدء";
+"you_set_new_record" = "لقد قمت بتحطيم رقم قياسي جديد في تسجيلاتك في اللعبه";
+"register_to_up" = "ادخل عبر الفايسبك لتصعد بمستواك";
+"exit_dialog" = "ماذا تريد";
+"current_score" = "الحجم: %@";
+
+"share_text" = "هل تظن أن يمكنك ان تغلبني في بلوب؟";
+
+"update_title" = "التحديث متاح";
+"update_message" = "هل تريد ان تدحدث الأن";
+
+
+"my_friends" = "اصدقائي";
+"my_new_friends" = "صديقي الجديد";
+"followers" = "متابعون";
+
+"view_profile" = "عرض الصفحة الشخصية";
+"delete" = "الغاء";
+"join_game" = "دخول اللعبة";
+"accept" = "قبول";
+"decline" = "رفض";
+
+"find_user_by_id" = " ID البحث عن شخص ب ال";
+"user_id_notfound" = "هذا الشخص لم يوجد";
+
+"copy_user_id" = " ID نسخ ال";
+"send_friend_request" = "أرسل طلب صداقة";
+
+"enter_ip" = "IP لنوع اللعبه  اكتب ال";
+
+
+
+"OK" = "شراء";
+"youtube" = "يوتيوب";
+"copy_user_id" = "ID نسخ";
+"log_in" = "تسجيل الدخول";
+"log_out" = "تسجيل الخروج";
+"guest" = "زائر";
+"info_title" = "معلومات";
+"records" = "التسجيلات";
+"shop" = "المتجر";
+"top_week" = "الأول اسبوعيآ";
+"reward_coins" = "عملات %ld";
+"get_it" = "احصل عليها";
+"reset" = "الإعادة";
+"close" = "اغلاق";
+"ads_error_wrong" = "حدث خطأ أغلق نافذة الإعلانات";
+"premium" = "ليس مجاني";
+"free" = "مجاني";
+"lvls" = "مستوى";
+"own_skins" = "الجلود الخاصة";
+"search" = "بحث";
+"bought_succeed" = "!%@تمت عملية الاشتراء";
+"buy_skin" = "%@ تحتاج الي عملات";
+"login_for_skins_message" = "يجب ان تسجل الدخول لتستخدم هذه الجلود";
+"customization" = "التخصيص";
+"show_DirectionPointer" = "مؤشر الأتجاه";
+"in_game_zoom" = "الزوم في اللعبة";
+"only_friends_skins" = "إظهار جلود الأصدقاء";
+"old_type_joystick" = "عصاة التحكم القديمة";
+"vibration" = "تذبذب";
+"purchases" = "المشتريات";
+"waiting_for_players" = "في الأنتظار لللاعبين";
+"players" = "اللاعبين: %@";
+"join_by_invitation" = "الانضمام عبر الدعوة";
+"random" = "عشوائى";
+"type_room_key" = "اكتب الرقم السري للغرفه";
+
+
+"game_isnt_started_yet" = "اللعبة لم تبدأ ، يمكنك خصارة العملات";
+"server_list" = "قاءمة السيرفر";
+"coins" = "نقود";
+"not_enough_coins" = "عملاتك لاتكفي";
+"2vs2_coins_lvl" = "1v1 20 علي الحصول تحتاج";
+"type_room_key" = "اكتب مفتاح الغرفة";
+"room_key" = "مفتاح الغرفة";
+"type_skin_name" = "اكتب اسم المظهر";
+"time_left_to_change_skin" = "وقظ متبقي لتغيير المظهر";
+"load_image" = "حمل الصورة";
+"create_own_skin" = "اصنع المظاهر الخاصة بك";
+"unlocked" = "مفتوح";
+"locked_slot" = "فتحة مغلقة";
+"use_edit_skin" = "استخدم او حرر المظاهر الخاصة بك";
+"skin_is_locked" = "هذا المظهر مغلق";
+"unlock_skin_slot_coins" = "بعملات %ld فتح فتحة مظاهر";
+"set_skin" = "ضبط المظهر";
+"edit_skin" = "تحرير المظهر";
+"unlock_skin" = "فتح المظهر";
+"custom_skin_message" = "تريد مظهر اي تحرير يمكنك . يراها الذي الوحيد انت ولاكن . للمزيد اضغط";
+"custom_skin_info" = "1.يمكنك تحرير اي مظهر تريد./n2.اختر صورة و أضع اسمها/n3.يمكنك تحرير المظهر كل ٣ ساعات./n4.يمكنك الحصول على اكتر من مظهر شخصي";
+"setup_own_skin" = "إعداد المظهر الخاص بك";
+"user_id" = "ID المستخدم";
+"cur_week_exp" = "الحالي الإسبوع EXP";
+"prev_week_exp" = "السابق الإسبوع EXP";
+"relation_empty_pending" = "لا يوجد اي دعوة صديق";
+"relation_empty_accept" = "ليس لديك اصدقاء ، يمكنك إرسال دعوات عن طريق ال ID او ,أضف اصدقاء عن طريق إرسال الدعوات";
+"relation_empty_decline" = "ليس لديك اي صديق محذوف";
+"relation_empty_default" = "ليس لديك اصدقاء ، عند دغط الأسم في الدرشة يمكنك إضاف الأصدقاء عن طريق IDال او إرسال الدعوات";
+
+
+"copy_ip" = "ipال نسخ";
+"blocked" = "ممنوع";
+"game_already_started" = "هذه اللعبة بدأت";
+"coins_bet_is" = ".عملة %ld ثمن الرهان";
+"spectate" = "المشاهده";
+"invitation_template" = " 5:الدعوات كحد اقصي";
+"top_week_exp_desc" = "الحصول علي اكبر عدد من expال ثم الفوز بالعملات";
+"time_left" = " الوقط المتبقي:";
+"boosters" = "التعزبزات";
+"free_coins" = "عملات مجانية";
+"get_coins" = "الحصول علي عملات";
+"free_coins_toast" = "حصلت على %@ عملات مجانية!";
+"buy_item_template" = "كلفة %@ عملات";
+"reset_all" = "إعادة ضبط الجميع";
+"joystick_radius" = "ابعاد عصاة التحكم";
+"joystick_margins" = "حدود عصاة التحكم";
+"gamefield_color" = "لون الأرض";
+"grid_color" = "لون الشبكة";
+"animation_speed" = "سرعة الرسوم";
+"split_margins" = "دإرة الأنقسام";
+"split_radius" = "حجم زر الإنقسام";
+"eject_radius" = "ابعاد الزر";
+"eject_margin" = "حدود الزر";
+"macros_radius" = "حجم الماكرو";
+"virus_color" = "لون الفايروس";
+"food_color" = "لون الأكل";
+"offline" = "غير متصل";
+"bet_value" = "ثمن الرهان:";
+"key" = "كلمة السر";
+"watch_video_desc" = "تفرج على إعلان و اربح %d عمله ؟";
+"get_free_coins" = "اربح من 5-40 عملات؟";
+"get_free_coins_vip" = "اربح من 5-80 عملات؟";
+
+
+"need_login_coins" = "يجب تسجيل الدخول للحصول على عملات";
+"need_login_boosters" = "يجب تسجيل الدخول للحصول على التعزيزات";
+"skip_onboard" = "التخطي";
+"onboard_welcome" = "اهلا بك في بلوب";
+"onboard_swipe" = "إسحب اليمين للحصول علي جولة\n'skip' : للبداية إضغط على";
+"onboard_login" = "تسجيل الدخول";
+"onboard_login_descrp" = "ادخل بجوجل او فايسبك للحصول علي بداية اكبر ، عملات و مظاهر و ٣٠٠٠ عملات";
+"onboard_coins_gain" = "الحصول على عملات";
+"onboard_coins_gain_descr" = "تحصل على عملات ان كنت مسجل فقط\n.العب لأنك تحصل علي عملات كل ما تصعد بالمستوى\n.انت تحصل على عملات مجانية كل ساعة";
+"onboard_boosters" = "المظاهر و البوستر";
+"onboard_boosters_descr" = "يمكنك الحصول على مظاهر كثيرة لأبهار اصدقأك\n\اصرف عملاتك على مظاهر و بوسترز";
+"onboard_game_mechanic" = "ميكانيكية اللعبة";
+"onboard_game_mechanic_descr" = " إبدأ صغير و تغذي على الأصغر منك\n\إضغط في اي مكان لتتحرك او استخدم عصاه التحكم\n\كل ما كنت اكبر كل ما تتحرك ابطأn\إضغط على ذر الإنقسام الإنقسام او رمي جزء منك\n";
+"onboard_records" = "تسجيلات";
+"onboard_records_descr" = "أصبح نجم في بلوب . سجل ارقام قياسية لتجد نفسك في أعلى ١٠٠ لاعب فى بلوب\n\أعلى خمس أسبوعيآ يحصلوا على ٥٠٠٠٠ عملات\nاستمتع";
+
+"loading_video" = "يتم تحميل الفيديو";
+"id_was_copided" = "%@ :ID تم نسخ ال";
+
+
+
+
+"best_perfomance" = "أفضل أداء";
+"grid_step" = "خطوة الشبكة";
+"need_login_vip" = "You need login to get VIP";
+"already_have_vip" = "You are already have VIP";
+
+"show_ping" = "Show ping";
+"triple_split" = "Macros 3x split";
+"user_role_desc" = "هذا اللاعب %@";
+
+//"try_for_free" = "جرب ببلاش\n٣ ايام ببلاش ";
+//"subscription_price" = "%@ في الشهر";
+//"vip_account" = "حساب VIP الملكي";
+//"no_ads" = "إزالة الإعلانات";
+//"vip_mark" = "في الملف الشخصي و الدرشة VIP علامة";
+//"free_reward_bonus" = "مرتين كمية العملات المجانية";
+//"in_game_bonus" = "مرتين العملات في اللعبة";
+//"additional_exp" = "عشرين في المإة نقاط خبرة زيادة";
+//"additional_mass" = "خمسة و عشرون أكتر في كتلة البداية";
+//"boosters_bonus" = "ثمن البوستر خمسين في المإة أقل";
+"try_for_free" = "جرب ببلاش\n ٣ ايام ببلاش";
+"subscription_price" = "%@ في الشهر";
+"vip_account" = "حساب VIP الملكي";
+"no_ads" = "إزالة الإعلانات";
+"vip_mark" = "في الملف الشخصي و الدرشة علامة VIP";
+"free_reward_bonus" = "مرتين كمية العملات المجانية";
+"in_game_bonus" = "مرتين العملات في اللعبة";
+"additional_exp" = "عشرين في المإة نقاط خبرة زيادة";
+"additional_mass" = "خمسة و عشرون أكتر في كتلة البداية";
+"boosters_bonus" = "ثمن البوستر خمسين في المإة أقل";
+
+"profile" = "ملف شخصي";
+
+
+"skins_purches" = "شراء";
+"skins_prem" = "ليس مجاني";
+"skins_lvl" = "مستوى";
+"skins_free" = "مجاني";
+"skins_yt" = "YT";
+"skins_custom" = "لخلق";
