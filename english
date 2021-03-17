@@ -1,0 +1,424 @@
+/* 
+  Localizable.strings
+  Agar
+
+  Created by Mikhail Prysiazhniy on 16.05.17.
+  Copyright © 2017 Mikhail Prysiazhniy. All rights reserved.
+*/
+
+
+"FFA" = "FFA";
+"Teams" = "Teams";
+"Expiremental" = "Expiremental";
+"Instant Merge" = "Instant Merge";
+"Crazy" = "Crazy";
+
+//dashboard
+
+"nick_name" = "Nickname";
+"game_mode" = "Game mode";
+"play" = "Play";
+"skins_list" = "Skins list";
+"settings" = "Settings";
+
+
+//settings
+
+"show_names" = "Show names";
+"show_grid" = "Show grid";
+"show_leaders" = "Show leaders";
+"show_minimap" = "Show minimap";
+"darkTheme" = "Dark theme";
+"show_skins" = "Show skins";
+"spec_mode_after_death" = "Spectate after death";
+"show_joystick" = "Floating joystick";
+"static_joystick" = "Static joystick";
+"show_chat" = "Show chat";
+"macros" = "Macros";
+"left_hand_control" = "Left hand control";
+"show_friends" = "Show friends";
+
+"video_catpuring_enabled" = "Video capturing";
+
+"stop_on_release" = "Stop on release";
+"tap_to_move" = "Tap to move";
+"joystick" = "Joystick";
+"control" = "Control";
+
+//info
+
+
+"fb_info_title" = "Information";
+"about_text" = "If you have offers, or want to see new and cool skin in this app, you can write to me:";
+
+"game_mechanic_description" = "- The bigger you are the slower you move\n \
+- Tap on relevant button to divide into two smaller blobs. One half of you shoots forward quickly, use this trick to strike other players and eat them.\n\
+- If you are divided you can recombine into one blob after a certain period of time has passed, the bigger your blobs the longer you have to wait before you can form into one blob again\n\
+- If you are smaller than the spikeballs then you can hide inside them for protection, but beware, if you are larger than a spikeball then touching it makes you burst into many tiny blobs.\n\
+- You can make spikeballs to split and feed somebody by throwing some your mass in it\n\
+- You can't eat or be eaten by players the exact same size as you\n\
+Control:\n\
+- Tap anywhere on screen to move your cell or just use joystick\n\
+- Tap on corresponding button to split or eject some mass\n\
+- Also you can disable showing names and skins to prevent lags.\n";
+
+"game_guest_account" = "GUEST ACCOUNT\n
+- When you play without logging in, you will be on a guest account. If you log into a new account it will automatically transfer all the progress from the guest account to your new account. (You can not loose your older account no matter what.)\n
+- If you log into an older account when you worked on the guest account than you will loose the progress from the guest account since you logged into an account that is not new.\n
+- When you reach level 20 you will not be able to level up more until you log into a new account, and then it will be transferred to your new account, saving your level, skins and coins.\n
+- If you delete the blob app, you will loose the progress from your guest account. (if you log into an older account when your using the guest feature then you will loose the progress on the guest account.)";
+
+"first_start_dialog_title" = "Game mechanics";
+
+
+// records
+
+
+"top_lvl" = "Top LVLs";
+"top" = "Top %@";
+
+
+// profile
+
+"last_seen" = "Last seen";
+"registered" = "Registered";
+"game_time" = "Game time";
+"user_info_records" = "Records:";
+"fb_info_message" = "Log in with Facebook/Google and get bigger start mass!\n\
+Level up to get even more starting mass and unlock new LVLs skins!";
+
+
+
+// skin chooser
+
+"skin_title" = "Set name for this skin?";
+"skin_message" = "This will change your nickname";
+"low_lvl_message" = "Your lvl lower than required";
+"login_for_skins_message" = "You must log in to use these skins";
+"prem_skin_message" = "Setup this skin?";
+"cancel" = "Cancel";
+"prem_skin_locked" = "Sorry. Premium skins is locked for a while.";
+
+
+// game popups
+
+"score_result" = "Your score %@ points";
+"exit" = "Exit";
+"restart" = "Restart";
+"you_set_new_record" = "You set new record in this game mode!";
+"register_to_up" = "Login via facebook to up your level and increase expirence.";
+"exit_dialog" = "What you want?";
+"current_score" = "Score: %@";
+
+"share_text" = "You think you can defeat me in Blob? Hah, try it :)";
+
+"update_title" = "Update available";
+"update_message" = "Do you want get it now?";
+
+
+"my_friends" = "Friends";
+"my_new_friends" = "Requests";
+"followers" = "Declined";
+
+"view_profile" = "View profile";
+"delete" = "Delete";
+"join_game" = "Join game";
+"accept" = "Accept";
+"decline" = "Decline";
+
+"find_user_by_id" = "Find user";
+"user_id_notfound" = "User with this ID not found";
+
+"copy_user_id" = "Copy ID";
+"send_friend_request" = "Invite";
+
+ "enter_ip" = "Type server's IP";
+
+
+// new portion
+
+
+"OK" = "OK";
+"youtube" = "YouTube";
+"log_in" = "Log in";
+"log_out" = "Log out";
+"guest" = "Guest";
+"info_title" = "Info";
+"records" = "Records";
+"shop" = "Shop";
+"top_week" = "Top week";
+"reward_coins" = "%ld coins";
+"get_it" = "Get it!";
+"reset" = "Reset";
+"close" = "Close";
+"ads_error_wrong" = "Something went wrong. Close this window to resume game.";
+"premium" = "Premium";
+"free" = "Free";
+"lvls" = "LVLs";
+"own_skins" = "Owned";
+"search" = "Search";
+"bought_succeed" = "You bought %@ successfully! Now this skin in Owned";
+"buy_skin" = "Buy for %@ coins?";
+"login_for_skins_message" = "You must log in to use these skins";
+"not_enough_coins_for_skin" = "You have not enough coins for this skin";
+"customization" = "Customization";
+"show_DirectionPointer" = "Direction pointer";
+"in_game_zoom" = "In-game zoom";
+"only_friends_skins" = "Only friends skins";
+"old_type_joystick" = "Long-split joystick";
+"vibration" = "Vibrate";
+"purchases" = "Purchases";
+"waiting_for_players" = "Waiting for players";
+"players" = "Players: %@";
+"join_by_invitation" = "Join by invitation";
+"random" = "Random";
+"type_room_key" = "Type room key";
+
+
+"game_isnt_started_yet" = "Game isn't started yet. You may lose your coins!";
+"server_list" = "Server list";
+"coins" = "Coins";
+"not_enough_coins" = "You don't have enough coins";
+"2vs2_coins_lvl" = "You need to get 20 lvl";
+"type_room_key" = "Type room key";
+"room_key" = "Room key";
+"type_skin_name" = "Type skin name";
+"time_left_to_change_skin" = "Time left to change skin";
+"local_skin_name_restriction" = "Use only Latin or Cyrillic letters in skin name";
+"load_image" = "Load image";
+"create_own_skin" = "Create own skin";
+"unlocked" = "Unlocked";
+"locked_slot" = "Locked slot";
+"use_edit_skin" = "Use or edit your skin";
+"skin_is_locked" = "Skin is locked";
+"unlock_skin_slot_coins" = "Unlock for %ldK coins and load any image as a personal skin";
+"set_skin" = "Set skin";
+"edit_skin" = "Edit skin";
+"unlock_skin" = "Unlock Now";
+"custom_skin_message" = "You can load any skin you want. But keep in mind thats works only for you. Tap to read more..";
+"custom_skin_info" = "1. Buy skin to unlock it.\n2. Now you can edit your skin: Choose image from gallery and enter skin name (it will be your player name)\n3. You can edit your skin only once per 3 hours.\n4. You can get more than 1 personal skin.";
+"setup_own_skin" = "Setup own skin";
+"user_id" = "User id";
+"cur_week_exp" = "Cur. Week Exp";
+"prev_week_exp" = "Prev. Week Exp";
+"relation_empty_pending" = "You have no new invitation yet.";
+"relation_empty_accept" = "You have not friends yet. Add friends by sending invite.\nYou can find friends via ID, tapping on name in chat or in records list";
+"relation_empty_decline" = "You have no followers yet.";
+"relation_empty_default" = "You have not friends yet. Add friends by sending invite.\nYou can find friends via ID, tapping on name in chat or in records list";
+
+
+"copy_ip" = "Copy IP";
+"blocked" = "Blocked";
+"game_already_started" = "This game is already started";
+"coins_bet_is" = "This game is for coins. Bet is %ld coins";
+"spectate" = "Spectate";
+"invitation_template" = "Invitations(max 5):  ";
+"top_week_exp_desc" = "Get as much exp as you can during week and win coins reward";
+"time_left" = "Time left:";
+"boosters" = "Boosters";
+"free_coins" = "Free coins";
+"get_coins" = "Get coins";
+"free_coins_toast" = "You got %@ coins for free!";
+"buy_item_template" = "Costs %@ coins";
+"reset_all" = "Reset all";
+"joystick_radius" = "Joystick radius";
+"joystick_margins" = "Joystick margins";
+"split_radius" = "Split radius";
+"gamefield_color" = "Gamefield color";
+"grid_color" = "Grid color";
+"animation_speed" = "Animation speed";
+"split_margins" = "Split margins";
+"eject_radius" = "Eject radius";
+"eject_margin" = "Eject margin";
+"macros_radius" = "Macros radius";
+"virus_color" = "Virus color";
+"food_color" = "Food color";
+"offline" = "Offline";
+"bet_value" = "Bet value:";
+"key" = "Key";
+"watch_video_desc" = "Watch video and get %d coins ?";
+"get_free_coins" = "Get free 5-40 coins?";
+"get_free_coins_vip" = "Get free 5-80 coins?";
+
+
+"need_login_coins" = "You need login to get coins";
+"need_login_boosters" = "You need login to get boosters";
+"skip_onboard" = "Skip";
+"onboard_welcome" = "Hello. Welcome to Blob.";
+"onboard_swipe" = "Swipe to the right to start a tour.\nPress 'skip' to start playing immediately.";
+"onboard_login" = "Log in";
+"onboard_login_descrp" = "Log in to have additional benefits: 3000 coins, bigger start mass, experience, skins and others.";
+"onboard_coins_gain" = "Coins gaining";
+"onboard_coins_gain_descr" = "You can get coins only if you are logged in.\nJust play and get coins when you achieve level up.\nAlso you can get free coins every hour in the shop.";
+"onboard_boosters" = "Boosters & Skins";
+"onboard_boosters_descr" = "You can get different cool skins to impress your friends or bring to fear your opponents.\
+    Barter your coins for skins and boosters.";
+"onboard_game_mechanic" = "Game mechanic";
+"onboard_game_mechanic_descr" = "- Start the game being a tiny bacteria and eat the smaller ones to grow rapidly\
+- Tap anywhere on screen to move your cell or just use joystick\
+- The bigger you are the slower you move\
+- Tap on corresponding button to split or eject some mass";
+"onboard_records" = "Records";
+"onboard_records_descr" = "Become a Blob star. Break records and find yourself in top 100 players in any game mode.\
+Top 5 players of the week get 50000 coins.\nHave fun)";
+
+"loading_video" = "Loading video";
+"id_was_copided" = "Id is %@ (was copied)";
+
+
+
+"best_perfomance" = "Improve performance (fps)";
+"grid_step" = "Grid step";
+"need_login_vip" = "You need login to get VIP";
+"already_have_vip" = "You are already have VIP";
+"only_vip_skin" = "Only VIP can get this!";
+
+"show_ping" = "Show ping";
+"triple_split" = "Macros 3x split";
+"ingame_quest" = "Show quest";
+
+
+"user_role_desc" = "This user is %@";
+
+"try_for_free" = "TRY FOR FREE\n3 days for free. ";
+"try_for_free_without_price" = "FREE TRIAL";
+
+"try_3day_trial" = "Try 3 days for free\nThen ";
+"try_3day_title" = "Try 3 days for free";
+
+"subscription_price" = "%@ per month";
+"vip_account" = "Royal VIP Account";
+"no_ads" = "Remove Ads";
+"vip_mark" = "VIP mark in profile & chat";
+"free_reward_bonus" = "x2 free & rewarded coins";
+"in_game_bonus" = "x2 in-game coins";
+"additional_exp" = "+20% additional exp";
+"additional_mass" = "+25% starting mass";
+"boosters_bonus" = "-50% boosters price";
+"rainbow_border" = "unique rainbow border";
+
+"profile" = "Profile";
+
+
+"skins_purches" = "Purchases";
+"skins_prem" = "Premium";
+"skins_lvl" = "Lvls";
+"skins_free" = "Free";
+"skins_yt" = "YT";
+"skins_custom" = "Custom";
+
+"rate_us" = "Do you want make Blob better and more popular?";
+"rate_us_btn" = "Rate us";
+"rate_us_remind_btn" = "Remind me later";
+
+
+"lvl_coins_reward" = "Congratulations! You achieved Lvl %ld and gained %ld coins!";
+"share_double_coins" = "Share your result and get DOUBLE coins!";
+"share_lvl_text" = "I have just achieved LVL %ld in Blob.io! Can you beat me now!?";
+"share_btn" = "Share";
+
+
+"show_cell_border" = "Show cell border";
+
+"select_region" = "Select nearest region!";
+"region_title" = "Region";
+
+//"subscription_info" = "We offer the following subscription options:\
+//Monthly Royal Membership is a monthly subscription for %@ (US). The benefits include blocking all the Ads, doubled amount of free and rewarded coins as well as playing field coins, VIP marks in the profile picture and nickname in the chat, 50%% off for Boosters and Skins price and 20%% boost while gaining experience and 25%% boost to starting mass.\n\
+//This price is established for the US customers. The pricing for other countries may vary depending on the currency rate, and actual charges may be converted to your local currency depending on the country.\n\
+//Payment will be charged to iTunes Account at confirmation of purchase\
+//Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\
+//Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current subscription. Account will be charged for renewal within the 24 hours before the end of the current subscription.\
+//Subscriptions may be managed by the user, and auto-renewal may be turned off by going to the user's Account Settings after the purchase.\
+//Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\
+//Enjoy 3-day free trial to explore all the Royal Membership benefits!\n\nTerms and conditions\n\nPrivacy Policy";
+
+"subscription_info" = "Terms and conditions and Privacy Policy";
+"subscription_info2" = "Terms and conditions\nand\nPrivacy Policy";
+
+"terms_link" = "https://blob-terms-and-conditions.blogspot.com/2018/12/blob-io-terms-and-conditions.html";
+"privacy_link" = "https://blob-devour.blogspot.com/2017/08/privacy-policy-this-policy-will-explain.html";
+
+
+
+"how_to_switch_fb_acc" = "\n1. Launch the Settings app from the Home screen of your iPhone or iPad.\n\
+2. Scroll down and tap on Safari.\n\
+3. Now scroll all the way to the bottom and tap on Advanced.\n\
+4. Tap on Website Data. Notice here you can see how much space on your iPhone or iPad website data is taking up.\n\
+5. Scroll to the bottom again and tap on Remove All Website Data.\n\
+6. Confirm one more time you'd like to delete all data.";
+
+"switch_fb_acc_title" = "How to switch FB account?";
+
+"quest_dayly_reward" = "Daily reward";
+"quest_exp_everyday" = "Gain exp and get reward everyday!";
+"get_reward_btn" = "Get reward";
+"quest_day" = "%ld day";
+"rwrd_present" = "Present";
+
+
+"quest_collect" = "Collect";
+"quest_collected" = "Collected";
+"quest_title" = "Quest";
+"quest_reset_in" = "Reset in %dh";
+
+"need_to_log_in" = "You need to log in";
+
+//reward_coins
+
+
+
+"hint1" = "Buy VIP and be free from ADS!";
+"hint2" = "Cooperate with friends and take over any server!";
+"hint3" = "Create your own server with custom settings and play with your friends!";
+"hint4" = "Grow your own YouTube channel with gameplay vids, achieve YT rank and gain popularity!";
+"hint5" = "Remember to collect FREE coins every 1 Hour!";
+"hint6" = "Get more EXP during one week than anybody else and win 55000 coins!";
+"hint7" = "You can battle 2 vs 2 for coins!";
+"hint8" = "You can make team scrimmage up to 5 vs 5!";
+"hint9" = "You can open a big map by clicking on the minimap in the game!";
+"hint10" = "Click on the triangle next to the chat and invite friends to your server!";
+"hint11" = "Log in to lvl up and start the game with more mass!";
+"hint12" = "Use mass/exp boosters to win more and lvl up faster!";
+"hint13" = "If you run out of coins, just buy them! :)";
+"hint14" = "Use rare skins and make everybody jealous!";
+"hint15" = "Customize game colors/params to your needs to make playing more comfortable!";
+"hint16" = "You can see your friends on the minimap!";
+"hint17" = "Have a chat with people and find new friends!";
+"hint18" = "Join our discord server to vote/chat and be up to date!";
+"hint19" = "Bring your real life friends in Blob to have fun together!";
+"hint20" = "Every player has a unique ID, you can share it so people can find you in Blob!";
+"hint21" = "You can play on an empty server to practice!";
+"hint22" = "You can click on the IP label to change it or open the servers list!";
+"hint23" = "We always experiment with new game modes. You can find them in the servers list (unofficial category)!";
+"hint24" = "We have awesome test game modes in unofficial!)";
+"hint25" = "If you are new to this game, check out on YouTube how other people rocks in Blob! Its amazing!";
+"hint26" = "You can create your own custom skin!";
+"hint27" = "Complete quests and get coins everyday!";
+"hint28" = "Blob! Just do it!";
+"hint29" = "Blob! I'am loving it xD";
+"hint30" = "Have a nice day with Blob!";
+
+
+"direction_lines" = "Direction lines";
+
+"video_replay_saved" = "Replay successfully saved";
+"video_replay_title" = "Video replays";
+"no_replays_yet" = "You have no replays yet.";
+"clear_all_replays" = "Clear all";
+
+
+"sure_delete_replays" = "Are you sure?";
+"delete_replays" = "Delete all replays";
+
+"bg_custom_title" = "Background image";
+"no_custom_bg" = "None";
+"socket_error" = "Connection error 😅\nLet's try again!";
+
+
+// force login text
+
+"login_to_get" = "Login to:";
+"get_more_coins" = "get 3000 free coins";
+"start_bigger" = "start bigger";
+"save_progress" = "save your progress";
