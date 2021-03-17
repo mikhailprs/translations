@@ -1,0 +1,414 @@
+/* 
+  Portuguese.strings
+  Agar
+
+  Criado por Mikhail Prysiazhniy em 16.05.17.
+  Direitos autorais ┬Ζ 2017 Mikhail Prysiazhniy. Todos os direitos reservados.
+*/
+
+
+"FFA" = "FFA";
+"Teams" = "Teams";
+"Expiremental" = "Expiremental";
+"Instant Merge" = "Instant Merge";
+"Crazy" = "Crazy";
+
+//dashboard
+
+"nick_name" = "Nickname";
+"game_mode" = "Modo de jogo";
+"play" = "Iniciar";
+"skins_list" = "Lista das skins";
+"settings" = "Ajustes";
+
+
+//settings
+
+"show_names" = "Ver nomes";
+"show_grid" = "Ver grades";
+"show_leaders" = "Ver líderes";
+"show_minimap" = "Mostrar mini-mapa";
+"darkTheme" = "Dark theme";
+"show_skins" = "Mostrar skins";
+"spec_mode_after_death" = "Assistir após morte";
+"show_joystick" = "Joystick flutuante";
+"static_joystick" = "Joystick estático";
+"show_chat" = "Mostrar chat";
+"macros" = "Macros";
+"left_hand_control" = "Controle mão esquerda";
+"show_friends" = "Mostrar amigos";
+
+"video_catpuring_enabled" = "Gravando tela";
+
+"stop_on_release" = "Parar ao soltar";
+"tap_to_move" = "Aperte para mover";
+"joystick" = "Joystick";
+"control" = "Controle";
+
+//info
+
+
+"fb_info_title" = "Informação";
+"about_text" = "Se você tiver ideias ou quiser ver um tema novo e legal neste jogo, entre em contato:";
+
+"game_mechanic_description" = "- Quanto maior você é, mais lento você se move\n \
+- Toque no botão split para dividir em duas bolhas menores. Metade de você atira para frente rapidamente, use para atingir outros jogadores e comê-los.\n\
+- Se você estiver dividido, poderá se juntar em um blob após alguns segundos, quanto maiores forem seus blobs, mais tempo você terá que esperar para puder se formar em um blob novamente\n\
+- Se você for menor do que as bolas de espinhos, você pode se esconder dentro delas para se proteger, mas cuidado, se for maior, tocá-las o fará explodir em muitas bolhas minúsculas.\n\
+- Você pode jogar vírus para se multiplicar e explodir alguém, jogando um pouco de sua massa nelas.\n\
+- Você não pode comer ou ser comido por jogadores do mesmo tamanho que você\n\
+Controles:\n\
+- Toque em qualquer lugar na tela para se mover ou use o joystick\n\
+- Toque no botão correspondente para dividir ou ejetar alguma massa\n\
+- Além disso, você pode desativar a exibição de nomes e skins para evitar atrasos.\n";
+
+"game_guest_account" = "CONTA DE VISITANTE\n
+- Quando você joga sem fazer login, você estará em uma conta de convidado.  Se entrar em uma nova conta, será transferido automaticamente todo o progresso da conta de convidado para a sua nova conta. (Você não pode perder sua conta antiga, não importa o que aconteça.)\n
+- Se você logar em uma conta antiga enquanto estiver na conta de convidado, perderá o progresso da conta de convidado uma vez que você se conectou em uma conta que não é nova.\n
+- Quando atingir o nível 20, não poderá mais subir de nível, até entrar em uma nova conta, e então será transferido seu progresso, salvando nível, skins e moedas.\n
+- Se você desinstalar o Blob, perderá o progresso de sua conta de convidado. (Se entrar em uma conta antiga ao usar o recurso de convidado, perderá todo o progresso na conta de convidado.)";
+
+"first_start_dialog_title" = "Mecanismos do jogo";
+
+
+// records
+
+
+"top_lvl" = "Ranking LVLs";
+"top" = "Ranking %@";
+
+
+// profile
+
+"last_seen" = "Visto em:";
+"registered" = "Registrado em:";
+"game_time" = "Tempo jogado:";
+"user_info_records" = "Recordes:";
+"fb_info_message" = "Faça login com o Facebook/Google e obtenha maior massa inicial!\n\
+Suba de nível para obter ainda mais massa inicial e desbloquear novas skins de NÍVEIS!";
+
+
+
+// skin chooser
+
+"skin_title" = "Selecionar skin?";
+"skin_message" = "Irá mudar seu nickname";
+"low_lvl_message" = "Seu nível é menor que o necessário";
+"login_for_skins_message" = "Você tem que logar para usar essa skin";
+"prem_skin_message" = "Escolher essa skin?";
+"cancel" = "Cancelar";
+"prem_skin_locked" = "Desculpe. As skins premium ficam bloqueadas temporariamente.";
+
+
+// game popups
+
+"score_result" = "Pontuação obtida: %@";
+"exit" = "Sair";
+"restart" = "Reiniciar";
+"you_set_new_record" = "Você obteve um novo recorde nesse modo de jogo!";
+"register_to_up" = "Faça login via Facebook/Google para subir de nível e aumentar a experiência.";
+"exit_dialog" = "O quê você quer?";
+"current_score" = "Pontuação: %@";
+
+"share_text" = "Você acha que pode me derrotar no Blob?  Haha, tente :)";
+
+"update_title" = "Atualização disponível";
+"update_message" = "Você quer obter?";
+
+
+"my_friends" = "Amigos";
+"my_new_friends" = "Solicitações";
+"followers" = "Deletados";
+
+"view_profile" = "Ver perfil";
+"delete" = "Deletar";
+"join_game" = "Seguir";
+"accept" = "Aceitar";
+"decline" = "Deletar";
+
+"find_user_by_id" = "Encontrar usuário";
+"user_id_notfound" = "Usuário não encontrado";
+
+"copy_user_id" = "Copiar ID";
+"send_friend_request" = "Pedir amizade";
+
+ "enter_ip" = "Digite o IP do servidor";
+
+
+// new portion
+
+
+"OK" = "OK";
+"youtube" = "YouTube";
+"log_in" = "Log in";
+"log_out" = "Sair";
+"guest" = "Visitante";
+"info_title" = "Info";
+"records" = "Recordes";
+"shop" = "Loja";
+"top_week" = "Top week";
+"reward_coins" = "%ld moedas";
+"get_it" = "Obter";
+"reset" = "Resetar";
+"close" = "Fechar";
+"ads_error_wrong" = "Algo deu errado.  Feche esta janela para voltar ao jogo.";
+"premium" = "Premium";
+"free" = "Free";
+"lvls" = "LVLs";
+"own_skins" = "Compradas";
+"search" = "Search";
+"bought_succeed" = "Você obteve %@ com sucesso! Agora ela foi comprada";
+"buy_skin" = "Comprar por %@ moedas?";
+"login_for_skins_message" = "Você tem que logar para usar essa skin";
+"not_enough_coins_for_skin" = "Você não tem moedas suficientes para esta skin";
+"customization" = "Customização";
+"show_DirectionPointer" = "Direcão do ponteiro";
+"in_game_zoom" = "Zoom em jogo";
+"only_friends_skins" = "Apenas skins de amigos";
+"old_type_joystick" = "Joystick long-split";
+"vibration" = "Vibração";
+"purchases" = "Compras";
+"waiting_for_players" = "Esperando por jogadores";
+"players" = "Jogadores: %@";
+"join_by_invitation" = "Entrado por convite";
+"random" = "Aleatório";
+"type_room_key" = "Digite senha da sala";
+
+
+"game_isnt_started_yet" = "O jogo ainda não começou.  Você pode perder suas moedas!";
+"server_list" = "Lista dos servidores";
+"coins" = "Moedas";
+"not_enough_coins" = "Você não tem moedas suficientes";
+"2vs2_coins_lvl" = "Você tem que ser nível 20";
+"type_room_key" = "Digite senha da sala";
+"room_key" = "Senha:";
+"type_skin_name" = "Digite nome da skin";
+"time_left_to_change_skin" = "Tempo restante para mudar a skin";
+"local_skin_name_restriction" = "Use apenas letras latinas ou cirílicas no nome da skin";
+"load_image" = "Carregar imagem";
+"create_own_skin" = "Criar sua própria skin";
+"unlocked" = "Desbloqueado";
+"locked_slot" = "Slot bloqueado";
+"use_edit_skin" = "Use ou edite sua skin";
+"skin_is_locked" = "Skin bloqueada";
+"unlock_skin_slot_coins" = "Desbloqueie por %ldK moedas e carregue quqlquer imagem personalizada";
+"set_skin" = "Escolher skin";
+"edit_skin" = "Editar skin";
+"unlock_skin" = "Desbloqueie agora";
+"custom_skin_message" = "Você pode carregar qualquer skin que desejar.  Mas lembre-se de que isso funciona apenas para você. Toque para ler mais..";
+"custom_skin_info" = "1. Compre skin para desbloquear.\n2. Agora você pode editar sua skin: Escolha a imagem da galeria e insira o nome da skin (será o seu nickname)\n3. Você pode editar sua skin apenas uma vez a cada 3 horas.\n4. Você pode ter mais de 1 skin personalizada.";
+"setup_own_skin" = "Defina sua skin";
+"user_id" = "ID usuário";
+"cur_week_exp" = "Cur. Week Exp";
+"prev_week_exp" = "Prev. Week Exp";
+"relation_empty_pending" = "Você ainda não tem um novo convite";
+"relation_empty_accept" = "Você ainda não tem amigos.  Adicione amigos enviando pedidos.\nVocê pode encontrar amigos via ID, tocando no nome no bate-papo ou na lista de recordes";
+"relation_empty_decline" = "Você não tem apagados";
+"relation_empty_default" = "Você ainda não tem amigos.  Adicione amigos enviando pedidos.\nVocê pode encontrar amigos via ID, tocando no nome no bate-papo ou na lista de recordes";
+
+
+"copy_ip" = "Copiar IP";
+"blocked" = "Bloqueado";
+"game_already_started" = "O jogo já começou";
+"coins_bet_is" = "Esse modo é apostado. Aposta é %ld moedas";
+"spectate" = "Assistir";
+"invitation_template" = "Convites(max 5):  ";
+"top_week_exp_desc" = "Obtenha o maior exp durante a semana e ganhe moedas de recompensa ";
+"time_left" = "Tempo restante:";
+"boosters" = "Impulsos";
+"free_coins" = "Moedas grátis";
+"get_coins" = "Obter moedas";
+"free_coins_toast" = "Você ganhou %@ moedas de graça!";
+"buy_item_template" = "Custa %@ moeda";
+"reset_all" = "Resetar todos";
+"joystick_radius" = "Raio do Joystick";
+"joystick_margins" = "Margens do Joystick";
+"split_radius" = "Split raio";
+"gamefield_color" = "Cor campo de jogo";
+"grid_color" = "Cor das grades";
+"animation_speed" = "Velocidade da animação";
+"split_margins" = "Margem do split";
+"eject_radius" = "Eject raio";
+"eject_margin" = "Eject margem";
+"macros_radius" = "Macros raio";
+"virus_color" = "Cor do vírus";
+"food_color" = "Cor das bolinhas";
+"offline" = "Offline";
+"bet_value" = "Valor da aposta:";
+"key" = "Senha";
+"watch_video_desc" = "Assista vídeos e ganhe %d moedas ?";
+"get_free_coins" = "Obter de graça 5-40 moedas?";
+"get_free_coins_vip" = "Obter de graça 5-80 moedas?";
+
+
+"need_login_coins" = "Você tem que fazer login para obter moedas";
+"need_login_boosters" = "Você tem que fazer login para obter reforços";
+"skip_onboard" = "Fechar";
+"onboard_welcome" = "Olá. Bem-vindo ao Blob.";
+"onboard_swipe" = "Deslize para a direita para iniciar o tutorial.\nAperte 'Fechar' para .";
+"onboard_login" = "Log in";
+"onboard_login_descrp" = "Faça login para ter benefícios adicionais: 3000 moedas, massa inicial maior, experiência, skins e outros.";
+"onboard_coins_gain" = "Ganhando moedas";
+"onboard_coins_gain_descr" = "Você pode ganhar moedas se estiver logado.\nBasta jogar, subindo de nível ganhará moedas.\nAlém disso, você pode obter moedas grátis a cada hora.";
+"onboard_boosters" = "Impulsos & Skins";
+"onboard_boosters_descr" = "Você pode obter diferentes skins legais para impressionar seus amigos ou assustar seus oponentes.\
+    Troque suas moedas por skins e boosters.";
+"onboard_game_mechanic" = "Mecanismo do jogo";
+"onboard_game_mechanic_descr" = "- Comece o jogo sendo uma bactéria minúscula e coma as menores para crescer rapidamente\
+- Toque em qualquer lugar na tela para se mover ou use o joystick\
+- Quanto maior você é, mais lento você se move\
+- Toque no botão correspondente para dividir ou ejetar alguma massa";
+"onboard_records" = "Recordes";
+"onboard_records_descr" = "Torne-se uma estrela Blob.  Quebre recordes e fique entre os 100 melhores jogadores em algum modo de jogo.\
+Os 5 melhores jogadores da semana ganham 50.000 moedas.\nDivirta-se)";
+
+"loading_video" = "Carregando vídeo";
+"id_was_copided" = "ID %@ (copiado)";
+
+
+
+"best_perfomance" = "Melhorar desempenho (fps)";
+"grid_step" = "Etapa da grade";
+"need_login_vip" = "Você tem que entrar para obter VIP";
+"already_have_vip" = "Você já obteve o VIP";
+"only_vip_skin" = "Apenas VIP podem ter isso!";
+
+"show_ping" = "Mostrar ping";
+"triple_split" = "Macros 3x split";
+"ingame_quest" = "Mostrar missões";
+
+
+"user_role_desc" = "Este jogador é %@";
+
+"try_for_free" = "Teste gratuitamente\n3 dias de graça. ";
+"try_for_free_without_price" = "TESTE GRÁTIS";
+
+"try_3day_trial" = "Teste por 3 dias\nDepois ";
+"try_3day_title" = "Teste grátis por 3 dias";
+
+"subscription_price" = "%@ por mês";
+"vip_account" = "Conta VIP Real";
+"no_ads" = "Remova os anúncios";
+"vip_mark" = "VIP etiqueta no perfil & chat";
+"free_reward_bonus" = "x2 grátis & moedas";
+"in_game_bonus" = "x2 moedas em jogo";
+"additional_exp" = "+20% ganho de exp";
+"additional_mass" = "+25% de massa inicial";
+"boosters_bonus" = "-50% preço dos impulsos";
+"rainbow_border" = "borda de arco-íris única";
+
+"profile" = "Perfil";
+
+
+"skins_purches" = "Compradas";
+"skins_prem" = "Premium";
+"skins_lvl" = "Lvls";
+"skins_free" = "Free";
+"skins_yt" = "YT";
+"skins_custom" = "Personalizadas";
+
+"rate_us" = "Você quer tornar o Blob melhor e mais popular?";
+"rate_us_btn" = "Avalie-nos";
+"rate_us_remind_btn" = "Lembre-me depois";
+
+
+"lvl_coins_reward" = "Parabéns! Você atingiu o nível %ld e ganhou %ld moedas!";
+ "share_double_coins" = "Compartilhe seu resultado e ganhe moedas DUPLAS!";
+ "share_lvl_text" = "Acabei de atingir o nível %ld no Blob.io! Você consegue me superar!?";
+ "share_btn" = "Compartilhar";
+
+
+ "show_cell_border" = "Mostrar borda";
+
+ "select_region" = "Região mais próxima!";
+ "region_title" = "Região";
+
+//"subscription_info" = "Oferecemos as seguintes opções de assinatura:\
+//A assinatura real mensal é uma assinatura mensal para %@ (US). Os benefícios incluem o bloqueio de todos os anúncios, quantidade dobrada de moedas grátis e recompensas, bem como moedas no campo de jogo, etiquetaVIP na imagem do perfil e nickname no chat, 50%% de desconto para impulsos e preços de skins e 20%% de aumento ao ganhar  experiência e 25%% de aumento na massa inicial.\n\
+//Este preço é estabelecido para clientes dos EUA.  O preço para outros países pode variar dependendo da taxa de câmbio, e as cobranças reais podem ser convertidas para sua moeda local dependendo do país.\n\
+//O pagamento será cobrado na conta do iTunes na confirmação da compra\
+//A renovação será cobrada no prazo de 24 horas antes do final do período atual e identificará o custo da renovação\
+//A assinatura é renovada automaticamente, a menos que a renovação automática seja cancelada pelo menos 24 horas antes do final da assinatura atual.  A renovação da conta será cobrada nas 24 horas anteriores ao final da assinatura atual.\
+//As assinaturas podem ser gerenciadas pelo usuário e a renovação automática pode ser cancelada acessando as Configurações da conta do usuário após a compra.\
+//Qualquer porção não utilizada de um período de teste gratuito, se oferecido, será perdida quando o usuário adquire uma assinatura dessa publicação, quando aplicável\
+//Aproveite a avaliação gratuita de 3 dias para explorar todos os benefícios da Assinatura Real!\n\nTermos e condições\n\ nPolítica de privacidade ";
+
+ "subscription_info" = "Termos e condições e Política de privacidade";
+ "subscription_info2" = "Termos e condições\ne\nPolítica de privacidade";
+
+ "terms_link" = "https://blob-terms-and-conditions.blogspot.com/2018/12/blob-io-terms-and-conditions.html";
+ "privacy_link" = "https://blob-devour.blogspot.com/2017/08/privacy-policy-this-policy-will-explain.html";
+
+
+
+ "how_to_switch_fb_acc" = "\n1. Inicie o aplicativo Ajustes na tela inicial do seu iPhone ou iPad.\n\
+ 2. Role para baixo e toque em Safari.\n\
+ 3. Agora role até o final e toque em Avançado.\n\
+ 4. Toque em Dados do site.  Observe aqui que você pode ver quanto espaço os dados do site do seu iPhone ou iPad estão ocupando.\n\
+ 5. Role para baixo novamente e toque em Remover todos os dados do site.\n\
+ 6. Confirme mais uma vez que deseja excluir todos os dados. ";
+
+ "switch_fb_acc_title" = "Como mudar de conta FB?";
+
+ "quest_dayly_reward" = "Recompensa diária";
+ "quest_exp_everyday" = "Ganhe exp e obtenha recompensa todos os dias!";
+ "get_reward_btn" = "Obter recompensa";
+ "quest_day" = "%ld dia";
+ "rwrd_present" = "Presente";
+
+
+ "quest_collect" = "Coletar";
+ "quest_collected" = "Coletado";
+ "quest_title" = "Missão";
+ "quest_reset_in" = "Reinicia em %dh";
+
+ "need_to_log_in" = "Você precisa fazer login";
+
+ //reward_coins
+
+
+
+ "hint1" = "Compre VIP e se livre de ADS!";
+ "hint2" = "Jogue com amigos e domine qualquer servidor!";
+ "hint3" = "Crie seu próprio servidor com configurações personalizadas e jogue com seus amigos!";
+ "hint4" = "Destaque seu canal no YouTube com vídeos do jogo, obtenha a etiqueta YT e ganhe popularidade!";
+ "hint5" = "Lembre-se de coletar moedas GRATUITAS a cada 1 hora!";
+ "hint6" = "Obtenha mais EXP durante uma semana do que qualquer outra pessoa para ganhar 55000 moedas!";
+ "hint7" = "Você pode lutar 2 contra 2 por moedas!";
+ "hint8" = "Você pode jogar em equipe até 5 contra 5!";
+ "hint9" = "Você pode abrir um grande mapa clicando no mini-mapa do jogo!";
+ "hint10" = "Clique no triângulo ao lado do chat e convide amigos para o seu servidor!";
+ "hint11" = "Faça login para aumentar o nível e inicie o jogo com mais massa!";
+ "hint12" = "Obtenha imulsos de massa/exp para ganhar mais e aumentar o nível mais rápido!";
+ "hint13" = "Se você ficar sem moedas, basta comprá-las! :)";
+ "hint14" = "Use skins raras e deixe todos com inveja!";
+ "hint15" = "Personalize as cores/parâmetros do jogo de acordo com as suas necessidades para tornar o jogo mais confortável!";
+ "hint16" = "Você pode ver seus amigos no minimapa!";
+ "hint17" = "Converse com outras pessoas e encontre novos amigos!";
+ "hint18" = "Junte-se ao nosso servidor discord para votar/bater um papo e ficar atualizado!";
+ "hint19" = "Traga seus amigos da vida real ao Blob para se divertirem juntos!";
+ "hint20" = "Cada jogador tem um ID único, você pode compartilhá-lo para que as pessoas possam encontrar você no Blob!";
+ "hint21" = "Você pode jogar em um servidor vazio para praticar!";
+ "hint22" = "Você pode clicar no IP para alterá-lo ou abrir a lista de servidores!";
+ "hint23" = "Sempre experimentamos novos modos de jogo. Você pode encontrá-los na lista de servidores (categoria não oficial)!";
+ "hint24" = "Temos modos de jogo experimentais incríveis em (unofficial!)";
+ "hint25" = "Se você é novo no jogo, veja no YouTube como outras pessoas arrasam no Blob! É incrível!";
+ "hint26" = "Você pode ter sua própria skin personalizada!";
+ "hint27" = "Complete missões e ganhe moedas todos os dias!";
+ "hint28" = "Blob! Basta fazê-lo!";
+ "hint29" = "Blob! Estou amando xD";
+ "hint30" = "Tenha um bom dia com Blob!";
+
+
+ "direction_lines" = "Linhas direcionais";
+
+ "video_replay_saved" = "Repetição salva com sucesso";
+ "video_replay_title" = "Reproduções de vídeo";
+ "no_replays_yet" = "Você ainda não tem replays.";
+ "clear_all_replays" = "Limpar tudo";
+
+
+ "sure_delete_replays" = "Tem certeza?";
+ "delete_replays" = "Excluir todos os replays";
+
+ "bg_custom_title" = "Image
